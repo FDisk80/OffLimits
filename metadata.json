@@ -1,0 +1,8 @@
+{
+  "name": "OffLimits",
+  "description": "OffLimits is a high-contrast European-style Speed Limit HUD for Android. Features real-time OpenStreetMap database road limits, direction-aware azimuth matching, and advanced AMOLED subpixel burn-in protection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
